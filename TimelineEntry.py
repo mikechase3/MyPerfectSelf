@@ -5,6 +5,6 @@ from datetime import date
 class MikeChasesDay:
 	def __init__(self):
 		self.date = date.today()
-		print("Today's date is: " + str(date))
+		print("Today's date is: " + str(date.today()))
 	def printDate(self):
-		print("Today's date is: " + str(date))
+		print("Today's date is: " + str(date.today()))
