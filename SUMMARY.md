@@ -2,7 +2,7 @@
 
 * [MyPerfectSelf](README.md)
 
-## 2020 Fall
+## Journal
 
-* [DateTime](2020-fall/datetime.md)
+* [DateTime](journal/datetime.md)
 
