@@ -1,4 +1,4 @@
-# MyPerfectSelf
-A journaling application to make me a better person.
+# Initial page
 
-Why doesn't this work?
+A long, long time ago.
+
