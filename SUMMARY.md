@@ -1,8 +1,9 @@
 # Table of contents
 
-* [MyPerfectSelf](README.md)
+* [2020](README.md)
 
 ## Journal
 
-* [DateTime](journal/datetime.md)
+* [2020](journal/2020/README.md)
+  * [October](journal/2020/october.md)
 

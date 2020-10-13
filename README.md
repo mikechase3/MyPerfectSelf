@@ -1,8 +1,4 @@
-# MyPerfectSelf
+# 2020
 
-A journaling application to make me a better person.
-
-Why doesn't this work?
-
-Oh wait! It does!
+This is now more or less a folder.
 
