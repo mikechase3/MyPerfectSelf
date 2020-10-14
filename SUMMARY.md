@@ -1,6 +1,6 @@
 # Table of contents
 
-* [2020](README.md)
+* [README](README.md)
 
 ## Journal
 
